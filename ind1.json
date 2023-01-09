@@ -8,5 +8,10 @@
         "name": "Pyaterochka",
         "product": "Moloko",
         "price": 150
+    },
+    {
+        "name": "FixPrice",
+        "product": "Grudka",
+        "price": 540
     }
 ]
